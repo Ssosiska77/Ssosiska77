@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ssosiska77 my name is Max
-- 👀 I’m interested in Olympic programming and 
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in AI and Data Science
+- 🌱 I’m currently learning Data Science at Al Farabi Kazakh National University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maximkas2306@gmail.com
 
